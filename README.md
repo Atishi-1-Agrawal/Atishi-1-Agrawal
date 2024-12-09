@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Namaste🙏🏽, I'm Shaurya Saxena</h1>
+<h1 align="center"> Hello! I am Atishi Agrawal </h1>
 
-<h3 align="center">A Passionate Coder from Gurugram,India</h3>
+<h3 align="center">A Passionate Coder from India</h3>
 
 ## 💫 About Me:
 
