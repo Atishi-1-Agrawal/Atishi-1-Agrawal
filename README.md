@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **Atishi-1-Agrawal/Atishi-1-Agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
