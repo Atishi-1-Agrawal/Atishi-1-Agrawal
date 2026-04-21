@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### ⚡ Little bit about me: </br>
 
-•⁠  ⁠🌱 I’m currently learning *React Native*
+•⁠  ⁠🌱 I’m currently learning *Python*
 
-•⁠  ⁠💬 Ask me about *React and javascript*
+•⁠  ⁠💬 Ask me about *ANSI SQL*
 
 •⁠  ⁠Reach me at *agrawalatishi@gmail.com*
 
